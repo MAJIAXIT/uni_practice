@@ -1,6 +1,4 @@
-#define MODEL_MAX 200
-#define MANUFACTORER_MAX 200
-#define CATEGORY_NAME_MAX 200
+#include "head.h"
 
 struct Car
 {

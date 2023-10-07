@@ -1,17 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include "obj.c"
-
-#define abs(a) (a >= 0 ? a : -(a))
-
-struct Car *_inputCar(void);
-void _printCar(struct Car *, int);
-void _retrieveAll(struct List *);
-void _deleteLast(struct List *);
-void _updatePrice(struct List *);
-void _retrieveByEngineSize(struct List *);
-void _printTableHeader(void);
+#include "head.h"
 
 int main(int argc, char **argv)
 {
