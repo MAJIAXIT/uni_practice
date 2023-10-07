@@ -1,0 +1,14 @@
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/obj/Debug/net7.0/pr_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/obj/Debug/net7.0/pr_2.AssemblyInfoInputs.cache
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/obj/Debug/net7.0/pr_2.AssemblyInfo.cs
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/obj/Debug/net7.0/pr_2.csproj.CoreCompileInputs.cache
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/bin/Debug/net7.0/pr_2
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/bin/Debug/net7.0/pr_2.deps.json
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/bin/Debug/net7.0/pr_2.runtimeconfig.json
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/bin/Debug/net7.0/pr_2.dll
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/bin/Debug/net7.0/pr_2.pdb
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/obj/Debug/net7.0/pr_2.dll
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/obj/Debug/net7.0/refint/pr_2.dll
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/obj/Debug/net7.0/pr_2.pdb
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/obj/Debug/net7.0/pr_2.genruntimeconfig.cache
+/Users/majiaxit/Documents/practices/term_3/itip/pr_2/obj/Debug/net7.0/ref/pr_2.dll

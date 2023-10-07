@@ -1,0 +1,14 @@
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/bin/Debug/net7.0/task_3
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/bin/Debug/net7.0/task_3.deps.json
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/bin/Debug/net7.0/task_3.runtimeconfig.json
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/bin/Debug/net7.0/task_3.dll
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/bin/Debug/net7.0/task_3.pdb
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/obj/Debug/net7.0/task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/obj/Debug/net7.0/task_3.AssemblyInfoInputs.cache
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/obj/Debug/net7.0/task_3.AssemblyInfo.cs
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/obj/Debug/net7.0/task_3.csproj.CoreCompileInputs.cache
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/obj/Debug/net7.0/task_3.dll
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/obj/Debug/net7.0/refint/task_3.dll
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/obj/Debug/net7.0/task_3.pdb
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/obj/Debug/net7.0/task_3.genruntimeconfig.cache
+/Users/majiaxit/Documents/practices/term_3/itip/pr_1/task_3/obj/Debug/net7.0/ref/task_3.dll
