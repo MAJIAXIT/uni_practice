@@ -1,0 +1,6 @@
+texts/*
+file64.dll
+pr_3_lib/*.o
+*.o
+*.so
+*.txt
