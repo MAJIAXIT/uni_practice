@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\obj\Debug\task_2.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\obj\Debug\task_2.Form1.resources
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\obj\Debug\task_2.Properties.Resources.resources
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\obj\Debug\task_2.csproj.GenerateResource.cache
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\obj\Debug\task_2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\bin\Debug\task_2.exe.config
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\bin\Debug\task_2.exe
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\bin\Debug\task_2.pdb
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\obj\Debug\task_2.exe
+\\Mac\Home\Documents\practices\term_3\itip\pw_4\task_2\obj\Debug\task_2.pdb
