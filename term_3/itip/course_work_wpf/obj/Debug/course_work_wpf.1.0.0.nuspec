@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>course_work_wpf</id>
+    <version>1.0.0</version>
+    <authors>course_work_wpf</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="4300a421c6f9a1b4c168b1776ae85a20a175955f" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Microsoft.Web.WebView2" version="1.0.2210.55" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="\\Mac\Home\Documents\practices\term_3\itip\course_work_wpf\bin\Debug\net8.0-windows\course_work_wpf.runtimeconfig.json" target="lib\net8.0-windows7.0\course_work_wpf.runtimeconfig.json" />
+    <file src="\\Mac\Home\Documents\practices\term_3\itip\course_work_wpf\bin\Debug\net8.0-windows\course_work_wpf.dll" target="lib\net8.0-windows7.0\course_work_wpf.dll" />
+  </files>
+</package>

@@ -1,0 +1,4 @@
+2024/01/12-23:34:44.179 1e60 Reusing MANIFEST \\Mac\Home\Documents\practices\term_3\itip\course_work_wpf\bin\Debug\net8.0-windows\course_work_wpf.exe.WebView2\EBWebView\Default\IndexedDB\https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/12-23:34:44.180 1e60 Recovering log #34
+2024/01/12-23:34:44.183 1e60 Reusing old log \\Mac\Home\Documents\practices\term_3\itip\course_work_wpf\bin\Debug\net8.0-windows\course_work_wpf.exe.WebView2\EBWebView\Default\IndexedDB\https_monkeytype.com_0.indexeddb.leveldb/000034.log 
+2024/01/12-23:34:44.366 1760 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)

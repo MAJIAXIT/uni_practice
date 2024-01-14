@@ -1,0 +1,9 @@
+2024/01/11-22:33:30.768 1e04 Reusing MANIFEST \\Mac\Home\Documents\practices\term_3\itip\course_work_wpf\bin\Debug\net8.0-windows\course_work_wpf.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-22:33:30.770 1e04 Recovering log #12
+2024/01/11-22:33:30.773 1e04 Reusing old log \\Mac\Home\Documents\practices\term_3\itip\course_work_wpf\bin\Debug\net8.0-windows\course_work_wpf.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000012.log 
+2024/01/11-22:33:34.828 1fec Compacting 1@1 + 1@2 files
+2024/01/11-22:33:34.848 1fec Generated table #15@1: 333 keys, 26733 bytes
+2024/01/11-22:33:34.848 1fec Compacted 1@1 + 1@2 files => 26733 bytes
+2024/01/11-22:33:34.849 1fec compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/11-22:33:34.851 1fec Delete type=2 #13
+2024/01/11-22:33:34.852 1fec Delete type=2 #10

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7hc3cjXqJpH3RxnMX/XwejLUE4iJXqbpRtKXZvCwbys23pX+FOBMkHO0iRH48PtMt/a/5x5vz9HuMoTmYEkebw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\practices\\term_3\\itip\\course_work_wpf\\course_work_wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\majiaxit\\.nuget\\packages\\microsoft.web.webview2\\1.0.2210.55\\microsoft.web.webview2.1.0.2210.55.nupkg.sha512"
+  ],
+  "logs": []
+}
