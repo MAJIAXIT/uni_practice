@@ -1,0 +1,14 @@
+2024/01/15-15:41:23.421 28e8 Reusing MANIFEST \\Mac\Home\Documents\practices\term_3\itip\course_work_wpf\bin\Debug\net8.0-windows\course_work_wpf.exe.WebView2\EBWebView\Default\IndexedDB\https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/15-15:41:23.426 28e8 Recovering log #38
+2024/01/15-15:41:23.434 28e8 Reusing old log \\Mac\Home\Documents\practices\term_3\itip\course_work_wpf\bin\Debug\net8.0-windows\course_work_wpf.exe.WebView2\EBWebView\Default\IndexedDB\https_monkeytype.com_0.indexeddb.leveldb/000038.log 
+2024/01/15-15:41:23.435 28e8 Delete type=2 #36
+2024/01/15-15:41:23.534 28e8 Level-0 table #43: started
+2024/01/15-15:41:23.540 28e8 Level-0 table #43: 3246 bytes OK
+2024/01/15-15:41:23.544 28e8 Delete type=0 #38
+2024/01/15-15:41:23.546 28e8 Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at '\x00)\x00\x00\x05' @ 2246 : 1
+2024/01/15-15:41:23.546 28e8 Compacting 1@0 + 1@1 files
+2024/01/15-15:41:23.552 28e8 Generated table #44@0: 85 keys, 2332 bytes
+2024/01/15-15:41:23.553 28e8 Compacted 1@0 + 1@1 files => 2332 bytes
+2024/01/15-15:41:23.553 28e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/15-15:41:23.555 28e8 Delete type=2 #43
+2024/01/15-15:41:23.557 298c Manual compaction at level-0 from '\x00)\x00\x00\x05' @ 2246 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)

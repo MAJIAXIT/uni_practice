@@ -1,0 +1,14 @@
+2024/01/15-16:08:38.829 15b0 Reusing MANIFEST \\Mac\Home\Documents\practices\term_3\itip\course_work_wpf\bin\Debug\net8.0-windows\course_work_wpf.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/01/15-16:08:38.871 15b0 Recovering log #180
+2024/01/15-16:08:38.956 15b0 Level-0 table #183: started
+2024/01/15-16:08:39.003 15b0 Level-0 table #183: 531101 bytes OK
+2024/01/15-16:08:39.045 15b0 Delete type=0 #180
+2024/01/15-16:08:39.047 19fc Compacting 4@0 + 1@1 files
+2024/01/15-16:08:39.105 19fc Generated table #185@0: 100 keys, 498453 bytes
+2024/01/15-16:08:39.105 19fc Compacted 4@0 + 1@1 files => 498453 bytes
+2024/01/15-16:08:39.106 19fc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/15-16:08:39.110 19fc Delete type=2 #176
+2024/01/15-16:08:39.110 19fc Delete type=2 #173
+2024/01/15-16:08:39.111 19fc Delete type=2 #183
+2024/01/15-16:08:39.111 19fc Delete type=2 #181
+2024/01/15-16:08:39.111 19fc Delete type=2 #179
