@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_form_designer_FILE /Users/majiaxit/Documents/practices/term_5/visual_programming/pw_3/build/form_designer)
+set(__QT_DEPLOY_TARGET_form_designer_TYPE EXECUTABLE)

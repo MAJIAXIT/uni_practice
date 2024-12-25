@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     main
+relocations:
+  - { offset: 0x5395, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x18344, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offset: 0x53AB, size: 0x8, addend: 0x0, symName: _WinWidth, symObjAddr: 0x648, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x53C1, size: 0x8, addend: 0x0, symName: _WinHeight, symObjAddr: 0x64C, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offset: 0x53DF, size: 0x8, addend: 0x0, symName: _vertexShaderSource, symObjAddr: 0x650, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offset: 0x53F5, size: 0x8, addend: 0x0, symName: _fragmentShaderSource, symObjAddr: 0x658, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offset: 0x541C, size: 0x8, addend: 0x0, symName: __ZL8vertices, symObjAddr: 0x964, symBinAddr: 0x100003DC4, symSize: 0x0 }
+  - { offset: 0x557D, size: 0x8, addend: 0x0, symName: __Z12processInputP10GLFWwindow, symObjAddr: 0x600, symBinAddr: 0x100003928, symSize: 0x48 }
+  - { offset: 0x55AB, size: 0x8, addend: 0x0, symName: __Z18windowSizeCallbackP10GLFWwindowii, symObjAddr: 0x5C4, symBinAddr: 0x1000038EC, symSize: 0x3C }
+  - { offset: 0x55F7, size: 0x8, addend: 0x0, symName: __Z23framebufferSizeCallbackP10GLFWwindowii, symObjAddr: 0x590, symBinAddr: 0x1000038B8, symSize: 0x34 }
+  - { offset: 0x5643, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003328, symSize: 0x590 }
+...

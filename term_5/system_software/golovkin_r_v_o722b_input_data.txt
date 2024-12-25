@@ -1,0 +1,42 @@
+#include <stdio.h>
+
+int main() {
+    int a, b, c, d;
+    a = 1;
+    b = 2;
+    c = 3;
+    d = 4;
+
+    a = b + c;
+    b = c * d;
+    c = d / a;
+    d = a >> 2;
+    a = b << 2;
+    b = c % d;
+    c = d - a;
+
+    a = (b + c) * (d + a);
+    a = (b - c) / (d - a);
+
+    int k = 2;
+    for (int i = 0; i < 10; i++) {
+        k *= 2;
+    }
+
+    while (k > 0) {
+        k /= 2;
+    }
+
+    if (a % 2 == 0) {
+        goto goto1;
+    } else {
+        goto goto2;
+    }
+
+goto1:
+    a += 1;
+    printf("a: %d", a);
+
+goto2:
+    printf("b: %d", b);
+}

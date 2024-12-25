@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     main
+relocations:
+  - { offset: 0x5604, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x2B2BD, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x5622, size: 0x8, addend: 0x0, symName: __ZL9SCR_WIDTH, symObjAddr: 0x848, symBinAddr: 0x100003C20, symSize: 0x0 }
+  - { offset: 0x5638, size: 0x8, addend: 0x0, symName: __ZL10SCR_HEIGHT, symObjAddr: 0x84C, symBinAddr: 0x100003C24, symSize: 0x0 }
+  - { offset: 0x57B7, size: 0x8, addend: 0x0, symName: __Z29checkShaderProgramCompilationPj, symObjAddr: 0x794, symBinAddr: 0x100003968, symSize: 0xB4 }
+  - { offset: 0x5812, size: 0x8, addend: 0x0, symName: __Z22checkShaderCompilationPjPKc, symObjAddr: 0x6C0, symBinAddr: 0x100003894, symSize: 0xD4 }
+  - { offset: 0x5874, size: 0x8, addend: 0x0, symName: __Z18loadShaderFromFileB5cxx11PKc, symObjAddr: 0x5C8, symBinAddr: 0x10000379C, symSize: 0xF8 }
+  - { offset: 0x58C3, size: 0x8, addend: 0x0, symName: __Z23framebufferSizeCallbackP10GLFWwindowii, symObjAddr: 0x594, symBinAddr: 0x100003768, symSize: 0x34 }
+  - { offset: 0x590F, size: 0x8, addend: 0x0, symName: __Z12processInputP10GLFWwindow, symObjAddr: 0x54C, symBinAddr: 0x100003720, symSize: 0x48 }
+  - { offset: 0x593D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x24, symBinAddr: 0x1000031F8, symSize: 0x528 }
+  - { offset: 0x5A4C, size: 0x8, addend: 0x0, symName: __ZSt3sinf, symObjAddr: 0x0, symBinAddr: 0x1000031D4, symSize: 0x24 }
+...
