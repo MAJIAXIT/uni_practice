@@ -6,3 +6,4 @@ __pycache__
 *.dSYM
 main
 a.out
+build

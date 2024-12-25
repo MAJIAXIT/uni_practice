@@ -1,5 +1,0 @@
-/Users/majiaxit/Documents/practices/term_5/visual_programming/pw_3/build/CMakeFiles/form_designer.dir
-/Users/majiaxit/Documents/practices/term_5/visual_programming/pw_3/build/CMakeFiles/edit_cache.dir
-/Users/majiaxit/Documents/practices/term_5/visual_programming/pw_3/build/CMakeFiles/rebuild_cache.dir
-/Users/majiaxit/Documents/practices/term_5/visual_programming/pw_3/build/CMakeFiles/form_designer_autogen_timestamp_deps.dir
-/Users/majiaxit/Documents/practices/term_5/visual_programming/pw_3/build/CMakeFiles/form_designer_autogen.dir
